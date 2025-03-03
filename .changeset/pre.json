@@ -128,5 +128,7 @@
     "@mastra/voice-playai": "0.1.2",
     "@mastra/voice-speechify": "0.1.2"
   },
-  "changesets": []
+  "changesets": [
+    "cool-papers-check"
+  ]
 }
